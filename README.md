@@ -1,7 +1,7 @@
 # Eric Liu
 
 <p align="left">
-  <img src="<[IMG_4092](https://github.com/eliu4913/eliu4913.github.io/assets/111816417/bdca7012-421f-4c1b-b592-91e6b18c68f9)>" alt="Eric Liu" width="200" height="200" style="border-radius:50%;">
+  <img src="![IMG_4092](https://github.com/eliu4913/eliu4913.github.io/assets/111816417/175dbb45-bea3-4dec-86d5-f9a3c6af7da7)" alt="Eric Liu" width="200" height="200" style="border-radius:50%;">
 </p> <!-- Replace <link-to-image> with the actual URL to the image -->
 
 
