@@ -7,7 +7,7 @@
 
 Los Angeles, California
 
-[Email](eliu4913@usc.edu) • [LinkedIn](<[your-linkedin-url](https://www.linkedin.com/in/eliu4913/)>) • [GitHub](<[your-github-url](https://github.com/eliu4913)>)
+[Email](eliu4913@usc.edu) • [LinkedIn](<[https://www.linkedin.com/in/eliu4913/]>) • [GitHub](<[https://github.com/eliu4913]>)
 
 ---
 
