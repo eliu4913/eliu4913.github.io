@@ -1,7 +1,7 @@
 # Eric Liu
 
-![Eric Liu](<![IMG_4092](https://github.com/eliu4913/eliu4913.github.io/assets/111816417/696c6011-02d6-4753-9c4c-c8f2f1942513)
-> "Eric Liu")
+![IMG_4092](https://github.com/eliu4913/eliu4913.github.io/assets/111816417/bdca7012-421f-4c1b-b592-91e6b18c68f9)
+
 
 **Course Producer for CSCI 270 @ NVIDIA USC Viterbi**
 
