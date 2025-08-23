@@ -1,12 +1,10 @@
 ---
 layout: single
-title: "Eric Liu's Homepage"
+title: "About me"
 author_profile: true
 ---
 
-Welcome to my homepage. I’m broadly interested in efficient/trustworthy AI, and applications of AI/ML.
+Welcome! I’m Eric Liu. I work on machine learning (with interests in RL and systems).  
+You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub](https://github.com/eliu4913), or reach me at <eliu4913@usc.edu>.
 
-If you’d like to connect:
-- [LinkedIn](https://www.linkedin.com/in/eliu4913/)
-- [GitHub](https://github.com/eliu4913)
-- You can also reach me at [Email](eliu4913@usc.edu)
+This site is built with the Minimal Mistakes Jekyll theme; I’ll use it for short notes and links to ongoing work.
