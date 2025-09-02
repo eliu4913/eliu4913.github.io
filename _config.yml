@@ -14,7 +14,7 @@ plugins:
 author:
   name: Eric Liu
   avatar: /assets/images/me.jpg
-  bio: "Notes on ML/RL/Systems; feel free to reach out."
+  bio: "M.S. in Computer Science at USC"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
