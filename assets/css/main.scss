@@ -19,7 +19,7 @@
 .layout--single .page__content li,
 .layout--single .page__content ul,
 .layout--single .page__content ol {
-  font-size: 0.85rem;
+  font-size: 0.7rem;
   line-height: 1.5;
 }
 
@@ -37,4 +37,8 @@
   padding: 0.5em;
   font-size: 0.9rem;
   line-height: 1.6;
+}
+
+body {
+  background: #f0f0f0 !important;
 }
