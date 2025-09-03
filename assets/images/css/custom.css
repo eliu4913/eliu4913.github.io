@@ -1,6 +1,6 @@
 /* Shrink font size on single-page layouts (like About me) */
 .layout--single .page__content {
-  font-size: 0.9rem;       /* smaller than default 1rem */
+  font-size: 0.5rem;       /* smaller than default 1rem */
   line-height: 1.5;
 }
 
