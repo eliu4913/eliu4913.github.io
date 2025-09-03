@@ -38,3 +38,8 @@
   font-size: 0.9rem;
   line-height: 1.6;
 }
+
+/* Hide heading permalink icons everywhere */
+.page__content .header-link {
+  display: none !important;
+}
