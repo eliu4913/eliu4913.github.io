@@ -43,3 +43,15 @@
 .page__content .header-link {
   display: none !important;
 }
+
+/* Reduce space between section headings and the following list */
+.layout--single .page__content h2 + ul,
+.layout--single .page__content h3 + ul,
+.layout--single .page__content h4 + ul {
+  margin-top: 0.25rem !important;  /* smaller gap above list */
+}
+
+/* Optional: also tighten paragraphs before lists */
+.layout--single .page__content p + ul {
+  margin-top: 0.25rem !important;
+}
