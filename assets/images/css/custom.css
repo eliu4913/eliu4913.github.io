@@ -1,0 +1,23 @@
+/* Make global font size smaller */
+body {
+  font-size: 0.9rem;   /* default is ~1rem; try 0.85–0.9 for resume-like look */
+}
+
+/* Adjust headings */
+h1, .page__title {
+  font-size: 1.4rem;   /* About Me title */
+}
+
+h2, h3, h4 {
+  font-size: 1.1rem;
+}
+
+/* Lists (like in Research/Projects) */
+li {
+  font-size: 0.9rem;
+}
+
+/* Sidebar bio and author profile */
+.author__bio, .author__content {
+  font-size: 0.85rem;
+}
