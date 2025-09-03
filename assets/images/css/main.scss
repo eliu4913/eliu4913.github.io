@@ -1,1 +1,41 @@
+---
+# Only the main Sass file needs front matter
+---
 
+@charset "utf-8";
+
+/* Import the theme skin you use (optional; if omitted, "default" is used) */
+// @import "minimal-mistakes/skins/default";
+
+/* Import Minimal Mistakes */
+@import "minimal-mistakes";
+
+/* -------------------------
+   Your overrides go below
+   ------------------------- */
+
+/* Make the About page (layout: single) smaller */
+.layout--single .page__content,
+.layout--single .page__content p,
+.layout--single .page__content li,
+.layout--single .page__content ul,
+.layout--single .page__content ol {
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.layout--single .page__title {
+  font-size: 1.35rem;
+  line-height: 1.25;
+}
+
+.layout--single .page__content h2 { font-size: 1.1rem; margin: 1rem 0 0.5rem; }
+.layout--single .page__content h3 { font-size: 1.0rem; margin: 0.75rem 0 0.4rem; }
+
+/* Optional: shrink code blocks (per the blog post) */
+.highlight {
+  margin: 0;
+  padding: 0.5em;
+  font-size: 0.9rem;   /* was $type-size-5b in the post; pick the size you like */
+  line-height: 1.6;
+}
