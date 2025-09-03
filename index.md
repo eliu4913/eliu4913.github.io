@@ -33,19 +33,4 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub
   
   With Prof. Lin Yang. Implemented baselines and variants for policy learning from ranked trajectories (NeurIPS 2025 submission).
 
----
-
-### Selected Projects
-- **ZeRO-Offload Stages & Model Size Impact**, Jan-Apr 2025
-  
-  Reproduced ZeRO-Offload, benchmarked memory vs. throughput trade-offs, and identified optimal scaling strategies.
-
-- **Impact of Object Detection for Game Agents**, Aug-Dec 2024
-  
-  Evaluated YOLOv8/DETR pipelines for game decision-making; linked detection accuracy and latency to agent performance.
-
-- **Virtual Machine & Compiler (C++/Bison/x86 asm)**, Oct-Dec 2023
-  
-  Built a VM (registers, stack, graphics) and compiler with linear-scan register allocation for efficient execution.
-
 
