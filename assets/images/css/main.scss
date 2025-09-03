@@ -20,12 +20,12 @@
 .layout--single .page__content li,
 .layout--single .page__content ul,
 .layout--single .page__content ol {
-  font-size: 0.9rem;
+  font-size: 0.5rem;
   line-height: 1.5;
 }
 
 .layout--single .page__title {
-  font-size: 1.35rem;
+  font-size: 0.7rem;
   line-height: 1.25;
 }
 
@@ -36,6 +36,6 @@
 .highlight {
   margin: 0;
   padding: 0.5em;
-  font-size: 0.9rem;   /* was $type-size-5b in the post; pick the size you like */
+  font-size: 0.5rem;   /* was $type-size-5b in the post; pick the size you like */
   line-height: 1.6;
 }
