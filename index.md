@@ -32,5 +32,3 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub
 - **UCLA - Trajectory Graph Learning**, May 2024 - present
   
   With Prof. Lin Yang. Developed a new framework for policy learning directly from expert trajectories (NeurIPS 2025 submission).
-
-test
