@@ -1,23 +1,24 @@
-/* Make global font size smaller */
-body {
-  font-size: 0.5rem;   /* default is ~1rem; try 0.85–0.9 for resume-like look */
+/* Shrink font size on single-page layouts (like About me) */
+.layout--single .page__content {
+  font-size: 0.9rem;       /* smaller than default 1rem */
+  line-height: 1.5;
 }
 
-/* Adjust headings */
-h1, .page__title {
-  font-size: 1.4rem;   /* About Me title */
-}
-
-h2, h3, h4 {
+/* Make headings more compact */
+.layout--single .page__content h2 {
   font-size: 1.1rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
 }
 
-/* Lists (like in Research/Projects) */
-li {
+.layout--single .page__content h3 {
+  font-size: 1rem;
+  margin-top: 0.75rem;
+  margin-bottom: 0.4rem;
+}
+
+/* Make list items smaller too */
+.layout--single .page__content li {
   font-size: 0.9rem;
-}
-
-/* Sidebar bio and author profile */
-.author__bio, .author__content {
-  font-size: 0.85rem;
+  margin: 0.2rem 0;
 }
