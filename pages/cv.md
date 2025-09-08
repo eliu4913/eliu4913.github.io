@@ -5,4 +5,4 @@ layout: single
 author_profile: false   # set to true if you want the left sidebar here too
 ---
 
-📄 [Download / View CV](/assets/files/EricLiu_CV.pdf)
+📄 [View my CV](/assets/files/EricLiu_CV.pdf)
