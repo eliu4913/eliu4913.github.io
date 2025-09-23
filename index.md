@@ -34,12 +34,12 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub
 
 - **UC San Diego, PICASSO Lab - ML Systems**, Mar 2025 - present
   
-  With Prof. Yufei Ding. Co-developing FlashCP for efficient context parallelism in long-context LLM training; achieved up to 1.45× end-to-end speed-up compare to SOTA baselines(NeurIPS 2025 submission).
+  With Prof. Yufei Ding. Co-developing FlashCP for efficient context parallelism in long-context LLM training; achieved up to 1.45× end-to-end speed-up compare to SOTA baselines.
 
 - **UC San Diego, SimWorld - Embodied AI**, Mar 2025 - present
   
-  With Prof. Lianhui Qin. Built task variants, scripts, and baselines for an LLM-driven delivery-agent benchmark in a UE5 simulator (NeurIPS 2025 submission).
+  With Prof. Lianhui Qin. Built task variants, scripts, and baselines for an LLM-driven delivery-agent benchmark in a UE5 simulator.
 
 - **UCLA - Trajectory Graph Learning**, May 2024 - present
   
-  With Prof. Lin Yang. Developed a new framework for policy learning directly from expert trajectories (NeurIPS 2025 submission).
+  With Prof. Lin Yang. Developed a new framework for policy learning directly from expert trajectories.
