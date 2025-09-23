@@ -17,7 +17,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub
 ---
 
 ### Publications
-- **NeurIPS’25** (Spotlight)
+- **NeurIPS’25** (Spotlight)  
   Trajectory Graph Learning: Aligning with Long Trajectories in Reinforcement Learning Without Reward Design  
   *Yunfan Li, **Eric Liu**, Lin Yang*
 
