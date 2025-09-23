@@ -19,11 +19,11 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub
 ### Publications
 - **NeurIPS’25** (Spotlight)
   Trajectory Graph Learning: Aligning with Long Trajectories in Reinforcement Learning Without Reward Design  
-  Yunfan Li, **Eric Liu**, Lin Yang
+  *Yunfan Li, **Eric Liu**, Lin Yang*
 
 - **NeurIPS’25** (Spotlight)  
   SimWorld: An Open-ended Simulator for Agents in Physical and Social Worlds  
-  Xiaokang Ye, Jiawei Ren, Yan Zhuang, Xuhong He, Yiming Liang, Yiqing Yang, Mrinaal Dogra, Xianrui Zhong, **Eric Liu**, Kevin Benavente, Rajiv Mandya Nagaraju, Dhruv Vivek Sharma, Ziqiao Ma, Tianmin Shu, Zhiting Hu, Lianhui Qin
+  *Xiaokang Ye, Jiawei Ren, Yan Zhuang, Xuhong He, Yiming Liang, Yiqing Yang, Mrinaal Dogra, Xianrui Zhong, **Eric Liu**, Kevin Benavente, Rajiv Mandya Nagaraju, Dhruv Vivek Sharma, Ziqiao Ma, Tianmin Shu, Zhiting Hu, Lianhui Qin*
 
 ---
 
