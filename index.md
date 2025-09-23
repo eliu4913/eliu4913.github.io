@@ -16,6 +16,17 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub
 
 ---
 
+### Publications
+- **[NeurIPS’25 Spotlight]**  
+  Trajectory Graph Learning: Aligning with Long Trajectories in Reinforcement Learning Without Reward Design 
+  Yunfan Li, <u>Eric Liu</u>, Lin Yang  
+
+- **[NeurIPS’25 Spotlight]**  
+  SimWorld: An Open-ended Simulator for Agents in Physical and Social Worlds  
+  Xiaokang Ye, Jiawei Ren, Yan Zhuang, Xuhong He, Yiming Liang, Yiqing Yang, Mrinaal Dogra, Xianrui Zhong, <u>Eric Liu</u>, Kevin Benavente, Rajiv Mandya Nagaraju, Dhruv Vivek Sharma, Ziqiao Ma, Tianmin Shu, Zhiting Hu, Lianhui Qin  
+
+---
+
 ### Research
 - **USC - LLM Unlearning & Evaluation**, May 2025 - present
   
