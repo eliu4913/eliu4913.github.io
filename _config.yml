@@ -44,6 +44,3 @@ defaults:
       
 atom_feed:
   hide: true
-
-footer:
-  powered_by: false
