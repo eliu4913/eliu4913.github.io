@@ -17,23 +17,29 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub
 ---
 
 ### Publications
-- **[NeurIPS’25] Trajectory Graph Learning: Aligning with Long Trajectories in Reinforcement Learning Without Reward Design**    
+- **Trajectory Graph Learning: Aligning with Long Trajectories in Reinforcement Learning Without Reward Design**    
   Yunfan Li, **Eric Liu**, Lin Yang
+  NeurIPS 2025 **Spotlight** 
 
-- **[NeurIPS’25] SimWorld: An Open-ended Simulator for Agents in Physical and Social Worlds**     
+- **SimWorld: An Open-ended Simulator for Agents in Physical and Social Worlds**     
   Xiaokang Ye, Jiawei Ren, Yan Zhuang, Xuhong He, Yiming Liang, Yiqing Yang, Mrinaal Dogra, Xianrui Zhong, **Eric Liu**, Kevin Benavente, Rajiv Mandya Nagaraju, Dhruv Vivek Sharma, Ziqiao Ma, Tianmin Shu, Zhiting Hu, Lianhui Qin
+  NeurIPS 2025 **Spotlight**
+  
+- **Graph Neural Networks for Bridge Swap Link Prediction in Uniswap v3**     
+  Qingran Zhou, **Eric Liu**, Alessio Brini
+  ACM ACAIF 2025 **Best Student Pape**
 
 ---
 
 ### Research
 - **USC - LLM Unlearning & Evaluation**, May 2025 - present    
-  With Prof. Sai Praneeth Karimireddy. Studying unlearning and adversarial prompting to probe sensitive-info leakage in LLMs.
+  With Prof. Sai Praneeth Karimireddy. Leading research on robust LLM unlearning by designing adversarial evaluation pipelines and analyzing model stability under perturbations and fine-tuning.
 
 - **UC San Diego, PICASSO Lab - ML Systems**, Mar 2025 - present    
-  With Prof. Yufei Ding. Co-developing FlashCP for efficient context parallelism in long-context LLM training; achieved up to 1.45× end-to-end speed-up compare to SOTA baselines.
+  With Prof. Yufei Ding. Co-developing FlashCP, a whole-document context-parallelism framework that resolves workload imbalance and achieves up to 1.63× end-to-end speed-ups over SOTA long-context training baselines.
 
 - **UC San Diego, SimWorld - Embodied AI**, Mar 2025 - present    
-  With Prof. Lianhui Qin. Built task variants, scripts, and baselines for an LLM-driven delivery-agent benchmark in a UE5 simulator.
+  With Prof. Lianhui Qin. Built the experimental pipeline for an LLM-driven delivery-agent benchmark in a UE5 urban simulator, including task variants, scripts, and ablation baselines.
 
 - **UCLA - Trajectory Graph Learning**, May 2024 - present    
-  With Prof. Lin Yang. Developed a new framework for policy learning directly from expert trajectories.
+  With Prof. Lin Yang. Developed a trajectory-graph framework that formulates policy alignment as an MWIS problem and enables coherent long-horizon policy learning.
