@@ -18,7 +18,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub
 
 ### Publications
 - **Trajectory Graph Learning: Aligning with Long Trajectories in Reinforcement Learning Without Reward Design**    
-  Yunfan Li, **Eric Liu**, Lin Yang
+  Yunfan Li, **Eric Liu**, Lin Yang    
   NeurIPS 2025 **Spotlight** 
 
 - **SimWorld: An Open-ended Simulator for Agents in Physical and Social Worlds**     
