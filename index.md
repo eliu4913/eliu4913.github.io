@@ -22,12 +22,12 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub
   NeurIPS 2025 **Spotlight** 
 
 - **SimWorld: An Open-ended Simulator for Agents in Physical and Social Worlds**     
-  Xiaokang Ye, Jiawei Ren, Yan Zhuang, Xuhong He, Yiming Liang, Yiqing Yang, Mrinaal Dogra, Xianrui Zhong, **Eric Liu**, Kevin Benavente, Rajiv Mandya Nagaraju, Dhruv Vivek Sharma, Ziqiao Ma, Tianmin Shu, Zhiting Hu, Lianhui Qin
+  Xiaokang Ye, Jiawei Ren, Yan Zhuang, Xuhong He, Yiming Liang, Yiqing Yang, Mrinaal Dogra, Xianrui Zhong, **Eric Liu**, Kevin Benavente, Rajiv Mandya Nagaraju, Dhruv Vivek Sharma, Ziqiao Ma, Tianmin Shu, Zhiting Hu, Lianhui Qin    
   NeurIPS 2025 **Spotlight**
   
 - **Graph Neural Networks for Bridge Swap Link Prediction in Uniswap v3**     
-  Qingran Zhou, **Eric Liu**, Alessio Brini
-  ACM ACAIF 2025 **Best Student Pape**
+  Qingran Zhou, **Eric Liu**, Alessio Brini    
+  ACM ACAIF 2025 **Best Student Paper**
 
 ---
 
