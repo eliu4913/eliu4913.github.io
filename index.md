@@ -32,7 +32,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub
 ---
 
 ### Preprints and Manuscripts
-- **[FlashCP: Load-Balanced Communication-Efficient Context Parallelism for LLM Training**    
+- **FlashCP: Load-Balanced Communication-Efficient Context Parallelism for LLM Training**    
   Zheng Wang, **Eric Liu**, Linan Jiang, Zhongkai Yu, Zaifeng Pan, Yue Guan, Yuke Wang, Yufei Ding    
   MLSys 2026 Under Review
   
