@@ -43,7 +43,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub
   With Prof. Sai Praneeth Karimireddy. Leading research on robust LLM unlearning by designing adversarial evaluation pipelines and analyzing model stability under perturbations and fine-tuning.
 
 - **UC San Diego, PICASSO Lab - ML Systems**, Mar 2025 - present    
-  With Prof. Yufei Ding. Co-developing FlashCP, a whole-document context-parallelism framework that resolves workload imbalance and achieves up to 1.63× end-to-end speed-ups over SOTA long-context training baselines.
+  With Prof. Yufei Ding. Co-developed FlashCP, a whole-document context-parallelism framework that resolves workload imbalance and achieves up to 1.63× end-to-end speed-ups over SOTA long-context training baselines.
 
 - **UC San Diego, SimWorld - Embodied AI**, Mar 2025 - present    
   With Prof. Lianhui Qin. Built the experimental pipeline for an LLM-driven delivery-agent benchmark in a UE5 urban simulator, including task variants, scripts, and ablation baselines.
