@@ -27,7 +27,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub
   
 - **[Graph Neural Networks for Bridge Swap Link Prediction in Uniswap v3](https://dl.acm.org/doi/10.1145/3768292.3770392)**     
   Qingran Zhou, **Eric Liu**, Alessio Brini    
-  ACM ICAIF 2025 **Best Student Paper**
+  ACM ICAIF 2025 **Best Student Paper Honorable Mention**
 
 ---
 
