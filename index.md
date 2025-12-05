@@ -40,13 +40,13 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub
 
 ### Research
 - **USC - LLM Unlearning & Evaluation**, May 2025 - Present    
-  With Prof. Sai Praneeth Karimireddy. Leading research on robust LLM unlearning by designing adversarial evaluation pipelines and analyzing model stability under perturbations and fine-tuning.
+  With Prof. Sai Praneeth Karimireddy. Leading research on robust LLM unlearning by designing adversarial evaluation pipelines and analyzing model stability under prompt optimization and fine-tuning.
 
 - **UC San Diego, PICASSO Lab - ML Systems**, March 2025 - Present    
   With Prof. Yufei Ding. Co-developed FlashCP, a whole-document context-parallelism framework that resolves workload imbalance and achieves up to 1.63× end-to-end speed-ups over SOTA long-context training baselines.
 
 - **UCLA - Trajectory Graph Learning**, May 2024 - Present    
-  With Prof. Lin Yang. Developed a trajectory-graph framework that formulates policy alignment as an MWIS problem and enables coherent long-horizon policy learning.
+  With Prof. Lin Yang. Co-developed Trajectory Graph Learning, a framework that formulates policy alignment as an MWIS problem and enables coherent long-horizon policy learning.
   
 - **UC San Diego, SimWorld - Embodied AI**, March 2025 - Sept. 2025     
-  With Prof. Lianhui Qin. Built the experimental pipeline for an LLM-driven delivery-agent benchmark in a UE5 urban simulator, including task variants, scripts, and ablation baselines.
+  With Prof. Lianhui Qin. Worked on the experimental pipeline for an LLM-driven delivery-agent benchmark in a UE5 urban simulator, including task variants, scripts, and baselines.
