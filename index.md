@@ -32,21 +32,21 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub
 ---
 
 ### Preprints and Manuscripts
-- **FlashCP: Load-Balanced Communication-Efficient Context Parallelism for LLM Training**    
+- **[FlashCP: Load-Balanced Communication-Efficient Context Parallelism for LLM Training](https://arxiv.org/abs/2606.08476)**    
   Zheng Wang, **Eric Liu**, Linan Jiang, Zhongkai Yu, Zaifeng Pan, Yue Guan, Yuke Wang, Yufei Ding    
-  MLSys 2026 Under Review
+  arXiv preprint (2026)
   
 ---
 
 ### Research
-- **USC - LLM Unlearning & Evaluation**, May 2025 - Present    
-  With Prof. Sai Praneeth Karimireddy. Leading research on robust LLM unlearning by designing adversarial evaluation pipelines and analyzing model stability under prompt optimization and fine-tuning.
+- **USC**, May 2025 - Present    
+  With Prof. Sai Praneeth Karimireddy. Leading research on LLM unlearning and privacy auditing.
 
-- **UC San Diego, PICASSO Lab - ML Systems**, March 2025 - Present    
+- **UC San Diego, PICASSO Lab**, March 2025 - Jan 2026    
   With Prof. Yufei Ding. Co-developed FlashCP, a whole-document context-parallelism framework that resolves workload imbalance and achieves up to 1.63× end-to-end speed-ups over SOTA long-context training baselines.
 
-- **UCLA - Trajectory Graph Learning**, May 2024 - Present    
+- **UCLA**, May 2024 - Jan 2026    
   With Prof. Lin Yang. Co-developed Trajectory Graph Learning, a framework that formulates policy alignment as an MWIS problem and enables coherent long-horizon policy learning.
   
-- **UC San Diego, SimWorld - Embodied AI**, March 2025 - Sept. 2025     
+- **UC San Diego, SimWorld**, March 2025 - Sept. 2025     
   With Prof. Lianhui Qin. Worked on the experimental pipeline for an LLM-driven delivery-agent benchmark in a UE5 urban simulator, including task variants, scripts, and baselines.
