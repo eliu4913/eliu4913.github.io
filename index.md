@@ -13,6 +13,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eliu4913/) and [GitHub
 **University of Southern California, Viterbi School of Engineering**
 - **B.S.** Computer Science & Business Administration, Aug 2020 - Dec 2025
 - **M.S.** Computer Science (Progressive Degree), Aug 2024 - Dec 2025
+- **Ph.D.** Computer Science, Aug 2026 - Present
 
 ---
 
